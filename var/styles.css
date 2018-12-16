@@ -1,0 +1,38 @@
+.wrapper{
+    max-width: 70%;
+    margin: auto;
+    color: #f6b300;
+    font-family: Sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #003b6f;
+    padding: 2em;
+    border-radius: 31%;
+}
+.hideable {
+    display: none;
+}
+button{
+    color: #ddd;
+    padding: 1em 2em;
+    font-size: 1.1em;
+    background-color: #444;
+    border-radius: 17%;
+}
+div {
+    text-align: center;
+    magin: auto;
+}
+#logged_box{
+    background-color: #e00;
+    width: 1em;
+    height: 1em;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#current_page{
+    font-size: 1px;
+    color: #000;
+}
